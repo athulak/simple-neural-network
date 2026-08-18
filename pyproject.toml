@@ -8,5 +8,6 @@ dependencies = [
     "torchvision",
     "numpy",
     "matplotlib",
-    "path"
+    "path",
+    "IPython"
 ]
